@@ -16,6 +16,9 @@
   ![screenshot2](./assets/screenshot_2.png)
   ![screenshot3](./assets/screenshot_3.png)
 
+  ## Link
+  Link to deployed application: [dcontrer83 book search engine](https://dcontrer83-book-search-engine.herokuapp.com/)
+
   ## License
   The license that is used for this project is: MIT License
 
